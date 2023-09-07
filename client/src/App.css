@@ -2,7 +2,15 @@
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
-  text-align: center;
+  display: flex;
+}
+
+.nav-button {
+  display: flex;
+}
+.a {
+  justify-content: space-around;
+  align-items: center;
 }
 
 .logo {
